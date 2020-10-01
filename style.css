@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color:#f4511e; 
+}
+h2{
+    text-transform: uppercase;
+    color:#303030;
+    margin-bottom: 30px;
+}
+h4{
+ color: #303030;
+ font-size: 19px;
+ font-family: inherit;
+}
+.fa-signal,.fa-globe{
+    color: #f4511e;
+    font-size: 200px !important;
+}
